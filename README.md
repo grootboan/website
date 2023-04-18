@@ -2,8 +2,9 @@
 
 그루트 시큐리티는 사이버 보안 커뮤니티로서 여러가지 사이버보안 해킹 기술강의 뿐만 아니라 여러 재밌는 사이버 보안 주제/팁/노하우등을 같이 공유하고 더 나아가서 사이버보안에 관심이 있으신 모든분들이 배워갈수있는 커뮤니티를 목표로 하고 있습니다.
 
-* **디스코드 채널:**  {% embed url="https://discord.gg/FGeh8Uk9Dg" %}
+
 * **이메일:** grootboan@gmail.com
+* 디스코드 채널: {% embed url="https://discord.gg/FGeh8Uk9Dg" %}
 * **TryHackMe 모의해킹 기초 실습방:** {% embed url="https://tryhackme.com/jr/grootsecurity" %}
 * **TryHackMe OSINT 실습방:** {% embed url="https://tryhackme.com/jr/grootosint" %}
 * TryHackMe 웹 해킹 실습방: {% embed url="https://tryhackme.com/jr/grootweb" %}
