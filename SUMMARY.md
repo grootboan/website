@@ -4,9 +4,9 @@
 
 ## 📣 꼭 알아야 하는 지식 <a href="#overview" id="overview"></a>
 
-* [💡 오펜시브 시큐리티 기초](overview/undefined.md)
-* [💡 디펜시브 시큐리티 기초](overview/undefined-1.md)
-* [💡 사이버 인텔 기초](overview/undefined-2.md)
+* [💡 오펜시브 시큐리티 기초](overview/오펜시브%20시큐리티.md)
+* [💡 디펜시브 시큐리티 기초](overview/디펜시브%20시큐리티.md)
+* [💡 사이버 인텔 기초](overview/사이버%20인텔.md)
 
 ## 🥷 기술 강의 <a href="#skill" id="skill"></a>
 

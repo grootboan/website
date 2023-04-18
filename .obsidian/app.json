@@ -1,4 +1,5 @@
 {
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "C:\\Users\\hexpe\\Documents\\website\\.gitbook\\assets"
+  "attachmentFolderPath": "C:\\Users\\hexpe\\Documents\\website\\.gitbook\\assets",
+  "alwaysUpdateLinks": true
 }
