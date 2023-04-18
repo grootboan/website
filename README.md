@@ -4,7 +4,6 @@
 
 
 * **이메일:** grootboan@gmail.com
-* 디스코드 채널: {% embed url="https://discord.gg/FGeh8Uk9Dg" %}
 * **TryHackMe 모의해킹 기초 실습방:** {% embed url="https://tryhackme.com/jr/grootsecurity" %}
 * **TryHackMe OSINT 실습방:** {% embed url="https://tryhackme.com/jr/grootosint" %}
 * TryHackMe 웹 해킹 실습방: {% embed url="https://tryhackme.com/jr/grootweb" %}
