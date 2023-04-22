@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 그루트 시큐리티 소개](README.md)
+* [👋 그루트 시큐리티](README.md)
 
 ## 📣 개념 영상 <a href="#overview" id="overview"></a>
 
