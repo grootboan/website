@@ -18,3 +18,11 @@
   * [🐍 업로드 우회와 SUID](follow-along/pentest/suid.md)
 * [👨🔧 사이버 위협 인텔](skill/undefined-2.md)
 * [👩👮 디펜시브 시큐리티](skill/undefined-3.md)
+
+## 🎙 팟캐스트 <a href="#podcast" id="podcast"></a>
+
+* [Defcon에 대하여](podcast/defcon.md)
+* [화이트해커로 살아남기 + 연봉](podcast/whitehat-and-salary.md)
+* [OSCP](podcast/oscp.md)
+* [해킹 툴의 합법 판매?](podcast/commercial-ost.md)
+* [해커들의 이력서](podcast/hacker-resume.md)
