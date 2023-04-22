@@ -15,5 +15,6 @@
   * [🔎 정보수집](follow-along/pentest/enum.md)
   * [🤖 Robots.txt과 디렉토리 브루트포싱 ](follow-along/pentest/robots-dir-bruteforcing.md)
   * [🙈 파일 권한과 chmod](follow-along/pentest/file-permissions-chmod.md)
+  * [🐍 업로드 우회와 SUID](follow-along/pentest/suid.md)
 * [👨🔧 사이버 위협 인텔](skill/undefined-2.md)
 * [👩👮 디펜시브 시큐리티](skill/undefined-3.md)
