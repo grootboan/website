@@ -1,4 +1,4 @@
-# 🧑🏫 오펜시브 시큐리티
+# 🧑🏫 기초 강의
 
 그루트 시큐리티 TryHackMe 실습 방 링크
 
@@ -8,14 +8,25 @@
 
 {% embed url="https://www.youtube.com/watch?v=Vcojc3yYpe4&list=PLQT3hYggZQNggVfomSs0PShRCUpY_IwNF" %}
 
-## 2. 그루트   시큐리티 TryHackMe 기초  강의
+##
 
-{% embed url="https://www.youtube.com/watch?v=F_B7MhMLicM&list=PLQT3hYggZQNj9UMFTJ7KfJx3r8QkGp66I" %}
+## 2. TryHackMe 방 소개&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=ICbJtDYEdNs" %}
+
+## 3. THM Task 1 리눅스 기초 실습&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=h7Xse8wUTEE" %}
 
 
-## 3. 그루트   시큐리티 TryHackMe 기초  강의
 
-{% embed url="https://www.youtube.com/watch?v=F_B7MhMLicM&list=PLQT3hYggZQNj9UMFTJ7KfJx3r8QkGp66I" %}
+## 4. 티먹스 사용법&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=LDnCQWrJ3Ec" %}
+
+## 5. 가상머신 해킹 실습&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=F_B7MhMLicM" %}
 
 
 
