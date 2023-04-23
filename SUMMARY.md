@@ -26,3 +26,4 @@
 * [OSCP](podcast/oscp.md)
 * [해킹 툴의 합법 판매?](podcast/commercial-ost.md)
 * [해커들의 이력서](podcast/hacker-resume.md)
+* [naver-site-verification: naverf06e9b8a557dacdeb4beddc847a08fd1.html](podcast/naver-site-verification-naverf06e9b8a557dacdeb4beddc847a08fd1.html.md)
