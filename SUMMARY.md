@@ -1,8 +1,7 @@
 # Table of contents
 
-* [naver-site-verification: naverf06e9b8a557dacdeb4beddc847a08fd1.html](README.md)
-* [👋 그루트 시큐리티](readme.md)
-* [naver-site-verification: naverf06e9b8a557dacdeb4beddc847a08fd1.html](naver-site-verification-naverf06e9b8a557dacdeb4beddc847a08fd1.html-1.md)
+* [👋 그루트 시큐리티](README.md)
+* [naver-site-verification: naverf06e9b8a557dacdeb4beddc847a08fd1.html](naver-site-verification-naverf06e9b8a557dacdeb4beddc847a08fd1.html.md)
 
 ## 📣 개념 영상 <a href="#overview" id="overview"></a>
 
