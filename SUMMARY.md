@@ -19,6 +19,10 @@
 * [👨🔧 사이버 위협 인텔](skill/undefined-2.md)
 * [👩👮 디펜시브 시큐리티](skill/undefined-3.md)
 
+## 💬 MISC
+
+* [깃헙 페이지 블로그 만들기](misc/github-pages-blog.md)
+
 ## 🎙 팟캐스트 <a href="#podcast" id="podcast"></a>
 
 * [Defcon에 대하여](podcast/defcon.md)
