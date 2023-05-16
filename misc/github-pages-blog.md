@@ -28,13 +28,15 @@ Repository 이름은 꼭 `<본인 깃헙 아이디>.github.io`로 지정합니�
 
 
 
-1. **VSCode 다운로드**&#x20;
+### **1. VSCode 다운로드**&#x20;
 
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download) 로 가서 본인의 운영체제에 맞는 인스톨러를 다운로드 받습니다. 대부분은 그냥 Windows 8,10,11 이라고 적혀있는 큰 버튼을 누르시면 됩니다.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 인스톨러를 실행한 뒤 아무것도 바꾸지 않고 next, next, install을 눌러 설치합니다.
+
+### 2. 익스텐션 설치&#x20;
 
 VSCode 설치가 끝나면 실행한 뒤, 왼쪽의 Extensions 탭으로 가 `github repositories` 를 검색 한 뒤, 설치합니다.
 
@@ -48,15 +50,15 @@ VSCode 설치가 끝나면 실행한 뒤, 왼쪽의 Extensions 탭으로 가 `gi
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
+### 3. 깃헙 페이지 리포 수정&#x20;
+
 로그인이 끝나면 다시 한 번 왼쪽 하단의 `><` 버튼 -> 원격 리포지토리 열기 -> 'Github' 에서 리포지토리 열기 -> 본인 깃헙계정.github.io 리포를 누릅니다. 그러면 VSCode에 깃헙 페이지 리포가 나옵니다.
-
-
 
 리포의 `_config.yml` 파일의 URL은 `https://<본인깃헙계정>.github.io` 계정으로 지정해줍니다. 그 뒤, title, name, description, Author name, bio, location 등을 업데이트 해줍니다. 한글도 됩니다.
 
 <figure><img src="../.gitbook/assets/blog5.png" alt=""><figcaption></figcaption></figure>
 
-실제 블로그 글은 `_posts` 디렉토리를 만든 뒤, `YYYY-MM-DD-블로그-제목-아무거나.md` 파일을 만든 뒤 Markdown 형식으로 블로그를 쓰시면 됩니다. 마크다운에 익숙하지 않으신 분들은 다음의 마크다운 레퍼런스 (https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 를 확인해주시기 바랍니다.
+실제 블로그 글은 `_posts` 디렉토리를 만든 뒤, `YYYY-MM-DD-블로그-제목-아무거나.md` 파일을 만든 뒤 Markdown 형식으로 블로그를 쓰시면 됩니다. 마크다운에 익숙하지 않으신 분들은 다음의 마크다운 [레퍼런스](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)를 확인해주시기 바랍니다.
 
 이미지는 assets 폴더에다가 본인이 가지고 있는 이미지 파일을 드래그/드롭을 해준 뒤, `![아무거나](/assets/파일이름.확장자)` 처럼 사용하면 됩니다.
 
