@@ -36,3 +36,6 @@
 * [OSCP](podcast/oscp.md)
 * [해킹 툴의 합법 판매?](podcast/commercial-ost.md)
 * [해커들의 이력서](podcast/hacker-resume.md)
+* [글로벌 사이버보안 시장도 불황의 영향 받았을까? (v. 2023)](podcast/v.-2023.md)
+* [경력과 나이, 해외 사이버보안 시장에서 어떤 역할을 할까?](podcast/undefined.md)
+* [해외 사이버보안 업계도 '학연 지연 문화차이' 존재? 한국과의 차이점은?](podcast/undefined-1.md)
