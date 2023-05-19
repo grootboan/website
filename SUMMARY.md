@@ -27,6 +27,7 @@
 ## 💬 MISC
 
 * [깃헙 페이지 블로그 만들기](misc/github-pages-blog.md)
+* [HackTheBox 소개](misc/hackthebox.md)
 
 ## 🎙 팟캐스트 <a href="#podcast" id="podcast"></a>
 
