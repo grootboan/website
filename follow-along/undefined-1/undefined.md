@@ -1,5 +1,11 @@
 # 🏗 레드팀 인프라 구축
 
+그루트 시큐리티 TryHackMe 레드팀 인프라 방 초대링크:&#x20;
+
+{% embed url="https://tryhackme.com/jr/grootredteamlab" %}
+
+
+
 일단 배워보는 레드팀 - 1. 도메인 구입과 클라우드 프로바이더 선택
 
 {% embed url="https://www.youtube.com/watch?v=hXAe5bhFg6M" %}
@@ -21,9 +27,5 @@
 {% embed url="https://youtu.be/eGLc8p8Ojyg" fullWidth="false" %}
 
 6. 일단 배워보는 레드팀 - 6. Gophish 서버 구축
-
-{% embed url="https://youtu.be/wLAnrnX5heg" %}
-
-6.
 
 {% embed url="https://youtu.be/wLAnrnX5heg" %}
