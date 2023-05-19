@@ -17,8 +17,8 @@
   * [🙈 파일 권한과 chmod](follow-along/pentest/file-permissions-chmod.md)
   * [🐍 업로드 우회와 SUID](follow-along/pentest/suid.md)
 * [🕸 따라하는 웹 해킹](follow-along/undefined/README.md)
-  * [스터디 0기 문제풀이 (DVWA)](follow-along/undefined/0-dvwa.md)
-* [1주차 Bruteforce](follow-along/1-bruteforce.md)
+  * [스터디 0기 문제풀이 (DVWA)](follow-along/undefined/0-dvwa/README.md)
+    * [1주차 Bruteforce](follow-along/undefined/0-dvwa/1-bruteforce.md)
 * [👨🔧 사이버 위협 인텔](skill/undefined-2.md)
 * [👩👮 디펜시브 시큐리티](skill/undefined-3.md)
 
