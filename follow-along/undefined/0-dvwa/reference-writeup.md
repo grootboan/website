@@ -15,12 +15,13 @@
 
 ### 취약점 정보
 
-| 정보   | 설명                                                                                                                                                                                  |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 이름   | 사용자 인증 브루트포스 (Bruteforce)                                                                                                                                                           |
-| 심각도  | 높음                                                                                                                                                                                  |
-| CVSS | 9.1                                                                                                                                                                                 |
-| 위치   | [http://localhost:80/vulnerabilities/brute/?username=admin\&password=password\&Login=Login](http://localhost/vulnerabilities/brute/?username=admin\&password=password\&Login=Login) |
+| 정보              | 설명                                                                                                                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **이름**          | 사용자 인증 브루트포스 (Bruteforce)                                                                                                                                                           |
+| **심각도**         | 높음                                                                                                                                                                                  |
+| **CVSS**        | 8.1                                                                                                                                                                                 |
+| **CVSS String** | CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H                                                                                                                                        |
+| **위치**          | [http://localhost:80/vulnerabilities/brute/?username=admin\&password=password\&Login=Login](http://localhost/vulnerabilities/brute/?username=admin\&password=password\&Login=Login) |
 
 ### 취약점 설명
 
