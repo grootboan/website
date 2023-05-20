@@ -19,6 +19,7 @@
 * [🕸 따라하는 웹 해킹](follow-along/undefined/README.md)
   * [스터디 0기 문제풀이 (DVWA)](follow-along/undefined/0-dvwa/README.md)
     * [1주차 Bruteforce](follow-along/undefined/0-dvwa/1-bruteforce.md)
+    * [레퍼런스 Writeup](follow-along/undefined/0-dvwa/reference-writeup.md)
 * [👨🔧 따라하는 정보수집](skill/undefined-2.md)
 * [🔴 따라하는 레드팀](follow-along/undefined-1/README.md)
   * [🏗 레드팀 인프라 구축](follow-along/undefined-1/undefined.md)
