@@ -15,13 +15,7 @@
 
 ### 취약점 정보
 
-| 정보              | 설명                                                                                                                                                                                  |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **이름**          | 사용자 인증 브루트포스 (Bruteforce)                                                                                                                                                           |
-| **심각도**         | 높음                                                                                                                                                                                  |
-| **CVSS**        | 8.1                                                                                                                                                                                 |
-| **CVSS String** | CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H                                                                                                                                        |
-| **위치**          | [http://localhost:80/vulnerabilities/brute/?username=admin\&password=password\&Login=Login](http://localhost/vulnerabilities/brute/?username=admin\&password=password\&Login=Login) |
+<table><thead><tr><th width="207">정보</th><th>설명</th></tr></thead><tbody><tr><td><strong>이름</strong></td><td>사용자 인증 브루트포스 (Bruteforce)</td></tr><tr><td><strong>심각도</strong></td><td>높음</td></tr><tr><td><strong>CVSS</strong></td><td>8.1</td></tr><tr><td><strong>CVSS String</strong></td><td>CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H</td></tr><tr><td><strong>위치</strong></td><td><a href="http://localhost/vulnerabilities/brute/?username=admin&#x26;password=password&#x26;Login=Login">http://localhost:80/vulnerabilities/brute/?username=admin&#x26;password=password&#x26;Login=Login</a></td></tr></tbody></table>
 
 ### 취약점 설명
 
