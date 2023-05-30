@@ -36,9 +36,14 @@
 
 {% embed url="https://pksec333.github.io/" %}
 
-## 임종승
+## 임종승님
 
 ### Writeup:
 
 {% embed url="https://cokestrawberry.github.io" %}
 
+## 김태엽님
+
+### Writeup:
+
+{% embed url="https://ruang0124.tistory.com/199" %}
