@@ -47,3 +47,8 @@
 ### Writeup:
 
 {% embed url="https://ruang0124.tistory.com/199" %}
+
+## 잠라프님
+
+{% embed url="https://jamlaff.github.io/BruteForce-Attack/" %}
+
