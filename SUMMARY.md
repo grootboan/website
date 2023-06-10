@@ -28,6 +28,7 @@
 
 ## 💬 MISC
 
+* [국제 해커 자격증, OSCP 시험 2023 준비 가이드](misc/oscp-2023.md)
 * [깃헙 페이지 블로그 만들기](misc/github-pages-blog.md)
 * [HackTheBox 소개](misc/hackthebox.md)
 
