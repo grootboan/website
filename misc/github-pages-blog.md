@@ -70,5 +70,5 @@ VSCode 설치가 끝나면 실행한 뒤, 왼쪽의 Extensions 탭으로 가 `gi
 
 그 뒤, 약 2분 정도 기다린 후 `https://본인깃헙계정.github.io` 방문하면 블로그가 나옵니다.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
