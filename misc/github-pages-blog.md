@@ -32,7 +32,7 @@ Repository 이름은 꼭 `<본인 깃헙 아이디>.github.io`로 지정합니�
 
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download) 로 가서 본인의 운영체제에 맞는 인스톨러를 다운로드 받습니다. 대부분은 그냥 Windows 8,10,11 이라고 적혀있는 큰 버튼을 누르시면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 인스톨러를 실행한 뒤 아무것도 바꾸지 않고 next, next, install을 눌러 설치합니다.
 
@@ -70,5 +70,5 @@ VSCode 설치가 끝나면 실행한 뒤, 왼쪽의 Extensions 탭으로 가 `gi
 
 그 뒤, 약 2분 정도 기다린 후 `https://본인깃헙계정.github.io` 방문하면 블로그가 나옵니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
