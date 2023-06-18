@@ -26,7 +26,7 @@
 
 {% embed url="https://jamlaff.github.io/Command-Injection-Attack/" %}
 
-## 지민님 (TBU)&#x20;
+## 지민님&#x20;
 
 {% embed url="https://jimin0605.github.io/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9/Commend-injeciton/" %}
 
