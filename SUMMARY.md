@@ -21,7 +21,7 @@
     * [1주차 Bruteforce Writeup](follow-along/undefined/0-dvwa/1-bruteforce-writeup.md)
     * [2주차 Command Injection](follow-along/undefined/0-dvwa/2-command-injection.md)
     * [3주차 CSRF](follow-along/undefined/0-dvwa/3-csrf.md)
-    * [4주차 File Inclusion & 발표](follow-along/undefined/0-dvwa/4-file-inclusion-and.md)
+    * [4주차 File Inclusion](follow-along/undefined/0-dvwa/4-file-inclusion.md)
     * [5주차 File Upload](follow-along/undefined/0-dvwa/5-file-upload.md)
     * [6주차 SQL Injection](follow-along/undefined/0-dvwa/6-sql-injection.md)
     * [레퍼런스 Writeup](follow-along/undefined/0-dvwa/reference-writeup.md)
