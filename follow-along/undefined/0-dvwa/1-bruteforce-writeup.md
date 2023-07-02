@@ -1,4 +1,4 @@
-# 1주차 Bruteforce Writeup & 발표
+# 1주차 Bruteforce Writeup
 
 ## mep님
 

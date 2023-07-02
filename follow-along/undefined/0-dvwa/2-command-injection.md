@@ -1,4 +1,4 @@
-# 2주차 Command Injection & 발표
+# 2주차 Command Injection
 
 ## Paul님
 

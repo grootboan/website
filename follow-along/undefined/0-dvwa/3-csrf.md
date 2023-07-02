@@ -1,4 +1,4 @@
-# 3주차 Command Injection & 발표
+# 3주차 CSRF
 
 잠라프님
 
